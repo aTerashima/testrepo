@@ -1,2 +1,7 @@
 # testrepo
-git練習用
+
+git 練習用
+
+# tera
+
+add comment
